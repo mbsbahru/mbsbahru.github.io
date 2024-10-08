@@ -1,15 +1,24 @@
 ---
-title: Welcome to my GitHub Page
+title: Welcome to My GitHub Page
 layout: default
 ---
 
 # Hello, I'm Bahru!
 
-I'm a marine engineer and robotics enthusiast.
+I'm a marine engineer and robotics enthusiast, specializing in **marine robotics** and **renewable energy controls**. With hands-on experience in underwater robotics, control systems, and computer vision.
 
-## Projects
+## Featured Projects
 
-- [Project 1: Pose Perfect](https://github.com/mbsbahru/pose-perfect-rob530project)
-- [Project 2: Squirrel Detection Android](https://github.com/mbsbahru/squirrel-detection-android)
+### [RoboSub 2024](./projects/mrobosub.md)
+Developed efficient detection and localization algorithms for underwater objects in the RoboSub competition.
 
-Thanks for visiting my page!
+### [Pose Perfect - Android Pose Estimation](./projects/pose_kalman.md)
+Developed an Android app to estimate 3D pose using vision, accelerometer, and gyroscope data.
+
+### [Visual Path Planning for Underwater Manipulation](./projects/visual_path_planning.md)
+Developed a Python program to estimate 3D poses of underwater objects relative to a camera.
+
+---
+
+Thank you for visiting my page!
+
