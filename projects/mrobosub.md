@@ -1,6 +1,5 @@
 ---
 title: RoboSub 2024
-layout: default
 ---
 
 ## RoboNation's 27th International RoboSub Competition (2024)

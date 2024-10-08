@@ -1,6 +1,5 @@
 ---
 title: Pose Perfect - An Android Pose Estimation & Guidance App
-layout: default
 ---
 
 ## Pose Perfect - An Android Pose Estimation & Guidance App (2024)

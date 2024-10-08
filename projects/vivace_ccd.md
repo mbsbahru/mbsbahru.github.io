@@ -1,6 +1,5 @@
 ---
 title: Control Co-Design of VIVACE Renewable Energy Converter
-layout: default
 ---
 
 ## Control Co-Design of VIVACE Renewable Energy Converter (2023-2024)

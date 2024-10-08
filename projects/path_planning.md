@@ -1,6 +1,5 @@
 ---
 title: Visual Path Planning for Underwater Manipulation
-layout: default
 ---
 
 ## Visual Path Planning for Underwater Manipulation (2024)
