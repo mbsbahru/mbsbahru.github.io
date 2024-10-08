@@ -13,7 +13,7 @@ I selected the novel control strategy and designed a comprehensive system model 
 - Designed a complete system model of the VIVACE converter in Matlab Simulink, incorporating components such as the hydrodynamic model, spring-mass-damper system, control algorithm, power generation unit, and battery load system for cohesive performance.
 - Modeled hydrodynamic interactions using a deep neural network, trained on a large dataset of experimental measurements, to represent fluid-structure interactions and predict dynamic responses under various flow conditions.
 - Applied Field-Oriented Control (FOC) with a Permanent Magnet Synchronous Motor (PMSM) to adjust the damping force dynamically, efficiently converting mechanical to electrical energy while responding to changing flow rates and environmental conditions.
-- Conducted system identification to estimate generator parameters such as flux linkage ($\lambda$), internal resistance ($R$), and inductances ($L_q$ and $L_d$), tuning the control system for real-world conditions.
+- Conducted system identification to estimate generator parameters such as flux linkage ($$\lambda$$), internal resistance ($$R$$), and inductances ($$L_q$$ and $$L_d$$), tuning the control system for real-world conditions.
 - Tested real-world generator setups to evaluate efficiency versus rotational speed and power output, selecting the most suitable configuration for different operational scenarios.
 - Fine-tuned FOC control gains for stable operation and high efficiency across a range of environmental and operational settings.
 - Developed a control algorithm capable of real-time adjustment based on instantaneous damping coefficients and generator speed, maintaining optimal performance in varying flow conditions.
