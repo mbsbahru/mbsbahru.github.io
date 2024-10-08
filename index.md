@@ -1,6 +1,6 @@
 ---
 title: Welcome to My GitHub Page
-layout: default
+layout: single
 ---
 
 # Hello, I'm Bahru!
