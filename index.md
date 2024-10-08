@@ -1,12 +1,10 @@
 ---
-title: Welcome to My GitHub Page
+title: Welcome to My Page
 ---
 
-# Hello, I'm Bahru!
+## Hello, I'm Bahru!
 
 I'm a marine engineering graduate and robotics enthusiast. With hands-on experience in marine robotics, control systems, and computer vision.
-
-## Featured Projects
 
 ### [RoboSub 2024](./projects/mrobosub.md)
 Developed efficient detection and localization algorithms for underwater objects in the RoboSub competition.
