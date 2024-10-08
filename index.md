@@ -4,7 +4,7 @@ title: Welcome to My GitHub Page
 
 # Hello, I'm Bahru!
 
-I'm a marine engineer and robotics enthusiast, specializing in **marine robotics** and **renewable energy controls**. With hands-on experience in underwater robotics, control systems, and computer vision.
+I'm a marine engineering graduate and robotics enthusiast. With hands-on experience in marine robotics, control systems, and computer vision.
 
 ## Featured Projects
 
@@ -22,7 +22,7 @@ Developed a Python program to estimate 3D poses of underwater objects relative t
 
 ### [Control Co-Design of VIVACE Renewable Energy Converter](./projects/vivace_ccd.md)
 Selected the novel control strategy and designed a comprehensive system model for the VIVACE converter.
-![Control Interface of the VIVACE Renewable Energy Converter](../assets/img/project_vivaceGui.jpeg)
+![Control Interface of the VIVACE Renewable Energy Converter](../assets/img/project_ccdVivace.png)
 
 ### [Control Interface of the VIVACE Renewable Energy Converter](./projects/vivace_gui.md)
 Converted the existing Raspberry Pi GUI Python program into a C++ application for real-time data visualization and improved performance.
@@ -50,5 +50,5 @@ Developed an Android application to segment objects based on their HSV color wit
 
 ---
 
-Thank you for visiting my page!
+Thank you for visiting this page!
 
