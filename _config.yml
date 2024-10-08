@@ -11,7 +11,7 @@ baseurl: ''
 lang:                  en
 
 remote_theme: hydecorp/hydejack@v9
-logo: /assets/img/logo_mydas.png
+logo: /assets/img/header_photo.png
 
 permalink:             /:categories/:year-:month-:day-:title/
 
