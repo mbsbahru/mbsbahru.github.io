@@ -14,7 +14,7 @@ I developed an Android application to perform 3D linear and angular pose estimat
 - Extracted object features (centroid, edges, vertices) and displayed their positions within the camera's 2D frame.
 - Performed camera calibration to obtain intrinsic parameters such as the optical center, focal length, skew coefficient, and distortion coefficients of the Android camera.
 - Applied the Perspective-n-Point (PnP) algorithm to compute the object’s translation vector and rotation matrix relative to the camera frame.
-- Performed inverse frame transformation to use the object as the reference frame, obtaining the camera’s linear ($x$, $y$, $z$) and Euler angular positions ($\phi$, $\theta$, $\psi$).
+- Performed inverse frame transformation to use the object as the reference frame, obtaining the camera’s linear ($$x$$, $$y$$, $$z$$) and Euler angular positions ($$\phi$$, $$\theta$$, $$\psi$$).
 - Processed Android accelerometer and gyroscope data for Kalman filtering.
 - Integrated frequency-based filtering and bang-bang control algorithms into the Android project.
 - Developed a feature to save and reset the desired 6 DoF position and orientation, along with motion guidance based on in-frame positions.
