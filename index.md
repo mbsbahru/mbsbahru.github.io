@@ -1,10 +1,11 @@
 ---
 title: Welcome to My Page
 ---
-
 ## Hello, I'm Bahru!
 
-I'm a marine engineering graduate and robotics enthusiast. With hands-on experience in marine robotics, control systems, and computer vision.
+I'm a marine engineering graduate and robotics enthusiast with hands-on experience in marine robotics, control systems, and computer vision.
+
+Here’s a glimpse of what I did during my involvement with **Barunastra Roboboat ITS**, **Michigan Robosub**, **Marine Renewable Lab**, and self-directed projects:
 
 ### [RoboSub 2024](./projects/mrobosub.md)
 Developed efficient detection and localization algorithms for underwater objects in the RoboSub competition.
