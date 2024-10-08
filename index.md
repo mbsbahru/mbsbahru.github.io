@@ -48,6 +48,5 @@ Developed an Android application to segment objects based on their HSV color wit
 ![Android Color Picker](../assets/img/project_hsvPickerAndroid.jpeg)
 
 ---
-
-Thank you for visiting this page!
+***<p style="text-align:center;">Thank you for visiting this page!</p>***
 
