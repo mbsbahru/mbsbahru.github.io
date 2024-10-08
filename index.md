@@ -4,7 +4,7 @@ title: Welcome to My GitHub Page
 
 # Hello, I'm Bahru!
 
-I'm a marine engineer and robotics enthusiast, specializing in **marine robotics** and **renewable energy controls**. With hands-on experience in underwater robotics, control systems, and computer vision.
+I'm a marine engineering graduate and robotics enthusiast. With hands-on experience in marine robotics, control systems, and computer vision.
 
 ## Featured Projects
 
@@ -50,5 +50,5 @@ Developed an Android application to segment objects based on their HSV color wit
 
 ---
 
-Thank you for visiting my page!
+Thank you for visiting this page!
 
