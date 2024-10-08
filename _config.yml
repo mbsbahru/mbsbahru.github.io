@@ -1,13 +1,20 @@
-title: GH Web Pages
-description: Welcome to my personal page.
+title: Muhammad Bahru Sholahuddin
+description: Welcome to my portfolio page.
+tagline: Renewable Control Systems | Marine Robotics Technology
+
 url: "https://mbsbahru.github.io"
 remote_theme: hydecorp/hydejack@v9
 
 logo: /assets/img/logo_mydas.png
 
-accent_image: /assets/img/sidebar-bg.jpg
-accent_color: rgb(79,177,186)
-theme_color: rgb(25,55,71)
+author:
+  name:                Muhammad Bahru Sholahuddin
+  email:               mbsbahru@umich.edu
+
+permalink:             /:categories/:year-:month-:day-:title/
+
+paginate:              10
+paginate_path:         /:num/
 
 plugins:
   - jekyll-default-layout
@@ -28,3 +35,34 @@ social:
   links:
     - https://github.com/mbsbahru
     - https://linkedin.com/in/mbsbahru
+
+kramdown:
+  math_engine:         katex
+  math_engine_opts:    {}
+  footnote_backlink:   '&#x21a9;&#xfe0e;'
+
+# Plugin Configs
+# ---------------------------------------------------------------------------------------
+optional_front_matter:
+  remove_originals:    true
+
+readme_index:
+  remove_originals:    true
+  with_frontmatter:    true
+
+relative_links:
+  collections:         true
+
+titles_from_headings:
+  strip_title:         true
+  collections:         true
+
+compress_html:
+  comments:            ["<!--", "-->"]
+  clippings:           all
+  endings:             all
+  ignore:
+    envs:              [development]
+
+sass:
+  style:               compressed
