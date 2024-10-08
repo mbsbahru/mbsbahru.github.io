@@ -6,7 +6,7 @@ tagline:
   & Renewable Controls
 
 url: "https://mbsbahru.github.io"
-baseurl: ""
+baseurl: ''
 
 lang:                  en
 
@@ -18,23 +18,3 @@ menu:
     url:   https://www.linkedin.com/in/mbsbahru/
   - title: "GitHub"
     url:   https://github.com/mbsbahru
-
-# author:
-#   name:                Muhammad Bahru Sholahuddin
-#   email:               mbsbahru@umich.edu
-#   github:              mbsbahru
-#   linkedin:            https://www.linkedin.com/in/mbsbahru/
-
-plugins:
-  - jekyll-default-layout
-  - jekyll-feed
-  - jekyll-optional-front-matter
-  - jekyll-paginate
-  - jekyll-readme-index
-  - jekyll-redirect-from
-  - jekyll-relative-links
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-titles-from-headings
-  - jekyll-include-cache
-  - jekyll-last-modified-at
