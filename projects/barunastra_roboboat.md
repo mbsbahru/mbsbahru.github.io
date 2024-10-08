@@ -1,8 +1,6 @@
 ---
-title: Object Detection and Communication for Roboboat 2016 Challenge
+title: Object Detection and Communication for 9th International Roboboat Competition (2016)
 ---
-
-## Object Detection and Communication for Roboboat 2016 Challenge (2016)
 
 *9th International Roboboat Competition - self-directed project at Barunastra Roboboat ITS.*
 

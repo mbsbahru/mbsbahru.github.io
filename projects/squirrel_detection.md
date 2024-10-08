@@ -1,8 +1,6 @@
 ---
-title: Android Squirrel Image Detection and Alert using YOLO
+title: Android Squirrel Image Detection and Alert using YOLO (2023)
 ---
-
-## Android Squirrel Image Detection and Alert using YOLO (2023)
 
 *(CEE575 - Sensors, Data, Smart Systems) self-directed class final project at the University of Michigan.*
 

@@ -1,8 +1,6 @@
 ---
-title: DC Motor Speed Control using Model Reference Adaptive Control
+title: DC Motor Speed Control using Model Reference Adaptive Control (2022)
 ---
-
-## DC Motor Speed Control using Model Reference Adaptive Control (2022)
 
 *(NA583 - Adaptive Control) self-directed class final project at the University of Michigan.*
 

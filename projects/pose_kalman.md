@@ -1,8 +1,6 @@
 ---
-title: Pose Perfect - An Android Pose Estimation & Guidance App
+title: Pose Perfect - An Android Pose Estimation & Guidance App (2024)
 ---
-
-## Pose Perfect - An Android Pose Estimation & Guidance App (2024)
 
 As part of the [ROB530 - Mobile Robotics](https://github.com/UMich-CURLY-teaching/UMich-ROB-530-public) self-directed class final project at the University of Michigan.
 

@@ -1,8 +1,6 @@
 ---
-title: Android Touch HSV Color Picker
+title: Android Touch HSV Color Picker (2014)
 ---
-
-## Android Touch HSV Color Picker (2014)
 
 *Self-project during my role as a junior programmer at Barunastra Roboboat ITS.*
 

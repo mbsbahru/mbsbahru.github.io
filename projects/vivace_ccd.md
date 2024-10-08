@@ -1,8 +1,6 @@
 ---
-title: Control Co-Design of VIVACE Renewable Energy Converter
+title: Control Co-Design of VIVACE Renewable Energy Converter (2023-2024)
 ---
-
-## Control Co-Design of VIVACE Renewable Energy Converter (2023-2024)
 
 Master's research project at the Marine Renewable Energy Lab (MRELab).
 

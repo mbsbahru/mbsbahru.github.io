@@ -1,8 +1,6 @@
 ---
-title: Pose Detection Prototype of CC Spreader using Computer Vision
+title: Pose Detection Prototype of CC Spreader using Computer Vision (2017)
 ---
-
-## Pose Detection Prototype of CC Spreader using Computer Vision (2017)
 
 *Final Project at the Institut Teknologi Sepuluh Nopember.*
 

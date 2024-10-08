@@ -1,8 +1,6 @@
 ---
-title: Visual Path Planning for Underwater Manipulation
+title: Visual Path Planning for Underwater Manipulation (2024)
 ---
-
-## Visual Path Planning for Underwater Manipulation (2024)
 
 As part of the self-directed class final project for [ROB572 - Marine Robotics](https://www.umich.edu/), at the University of Michigan.
 

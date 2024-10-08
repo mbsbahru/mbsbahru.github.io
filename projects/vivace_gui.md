@@ -1,8 +1,6 @@
 ---
-title: Control Interface of the VIVACE Renewable Energy Converter
+title: Control Interface of the VIVACE Renewable Energy Converter (2023)
 ---
-
-## Control Interface of the VIVACE Renewable Energy Converter (2023)
 
 Summer Research Project at the Marine Renewable Energy Lab (MRELab).
 

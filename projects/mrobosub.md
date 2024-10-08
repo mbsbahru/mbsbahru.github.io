@@ -1,8 +1,6 @@
 ---
-title: RoboSub 2024
+title: RoboNation's 27th International RoboSub Competition (2024)
 ---
-
-## RoboNation's 27th International RoboSub Competition (2024)
 
 As a software developer for the [Michigan Robotic Submarine](https://www.michiganrobosub.com/) team.
 
