@@ -1,4 +1,4 @@
-title: Bahru Sholahuddin's Portfolio
+title: GH Portfolio
 description: Welcome to my personal page.
 url: "https://mbsbahru.github.io"
-theme: minima
+remote_theme: hydecorp/hydejack@v9
