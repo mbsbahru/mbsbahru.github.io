@@ -13,7 +13,10 @@ lang:                  en
 remote_theme: hydecorp/hydejack@v9
 logo: /assets/img/logo_mydas.png
 
-footer: ""
+permalink:             /:categories/:year-:month-:day-:title/
+
+paginate:              10
+paginate_path:         /:num/
 
 menu:
   - title: "LinkedIn"
