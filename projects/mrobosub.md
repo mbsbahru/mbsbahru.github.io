@@ -4,7 +4,7 @@ title: RoboSub 2024
 
 ## RoboNation's 27th International RoboSub Competition (2024)
 
-As a software developer for the [Michigan Robotic Submarine](https://www.michiganrobosub.com/) team, I contributed to our submission for the 27th RoboSub competition.
+As a software developer for the [Michigan Robotic Submarine](https://www.michiganrobosub.com/) team.
 
 **My Responsibility:**
 - Detecting and localizing underwater objects efficiently for autonomous navigation.
