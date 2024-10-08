@@ -1,9 +1,9 @@
 title: Muhammad Bahru Sholahuddin
 description: Welcome to my portfolio page.
 
-tagline:               >
+tagline:               
   Marine Robotics 
-  & Renewable Energy Controls
+  & Renewable Controls
 
 url: "https://mbsbahru.github.io"
 baseurl: ""
@@ -23,7 +23,7 @@ menu:
 #   name:                Muhammad Bahru Sholahuddin
 #   email:               mbsbahru@umich.edu
 #   github:              mbsbahru
-#   linkedin:                 https://www.linkedin.com/in/mbsbahru/
+#   linkedin:            https://www.linkedin.com/in/mbsbahru/
 
 plugins:
   - jekyll-default-layout
