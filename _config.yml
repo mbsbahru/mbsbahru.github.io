@@ -13,6 +13,8 @@ lang:                  en
 remote_theme: hydecorp/hydejack@v9
 logo: /assets/img/logo_mydas.png
 
+footer: ""
+
 menu:
   - title: "LinkedIn"
     url:   https://www.linkedin.com/in/mbsbahru/
