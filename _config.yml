@@ -15,8 +15,7 @@ logo: /assets/img/logo_mydas.png
 
 permalink:             /:categories/:year-:month-:day-:title/
 
-paginate:              10
-paginate_path:         /:num/
+paginate_path: /page/:num/
 
 menu:
   - title: "LinkedIn"
@@ -124,3 +123,7 @@ hydejack:
     cache_version:     13
     precache_assets:
       - /assets/img/swipe.svg
+
+  stylesheets:
+    - /assets/css/custom.css
+    - /assets/css/custom.css
