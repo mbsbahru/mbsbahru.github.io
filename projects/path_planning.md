@@ -13,7 +13,7 @@ I developed a Python program to estimate the 3D linear and angular poses (surge,
 - Segmented two underwater objects using HSV thresholding to differentiate between various color profiles. The segmentation was refined with smoothing techniques, contour treatment, and color enhancements to improve detection accuracy in low-visibility underwater environments.
 - Developed an algorithm to identify and track the corner vertices of the objects in real-time, extracting features such as vertex positions and edge lengths for geometric classification.
 - Performed camera calibration using Matlab, estimating intrinsic parameters such as the optical center, focal length, skew coefficient, and distortion coefficients to correct lens distortions.
-- Applied the Perspective-n-Point (PnP) algorithm, Rodrigues' rotation formula, and inverse transformations to compute the camera’s linear ($x$, $y$, $z$) and Euler angular positions ($\phi$, $\theta$, $\psi$) relative to the object’s frame.
+- Applied the Perspective-n-Point (PnP) algorithm, Rodrigues' rotation formula, and inverse transformations to compute the camera’s linear ($$x$$, $$y$$, $$z$$) and Euler angular positions ($$\phi$$, $$\theta$$, $$\psi$$) relative to the object’s frame.
 - Implemented an online low-pass filter to smooth trajectory data, reducing the impact of noise and sudden fluctuations for stable motion representation.
 - Calculated and displayed reprojection error for each frame to assess pose estimation accuracy, providing insights for further improvement.
 - Visualized the 6-DoF motion trajectory of the camera relative to the object’s frame using Matplotlib, with detailed plots showing the path and orientation of the camera and objects.
