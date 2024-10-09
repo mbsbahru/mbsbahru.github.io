@@ -13,6 +13,7 @@ lang:                  en
 remote_theme: hydecorp/hydejack@v9
 logo: /assets/img/header_photo.png
 favicon: /assets/icons/favico.ico
+apple_touch_icon: /assets/img/logo_mydas.png
 
 permalink:             /:categories/:year-:month-:day-:title/
 
