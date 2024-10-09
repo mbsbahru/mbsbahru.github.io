@@ -9,7 +9,7 @@ Kobi Wettstein, Adarsh Ponaka, Elaina Mann, Melissa Peters, Arnav Mummineni, Jen
 Alexander Bowler, Tong Sing Wu, Shrey Sahgal, Emi Yuki, Shubh Agrawal, Andrew Huston.
 
 ### My Responsibility:
-- Detecting and localizing underwater objects efficiently for autonomous navigation.
+Detecting and localizing underwater objects efficiently for autonomous navigation.
 
 ### Strategies:
 - **Image Enhancement:** Applied histogram equalization and white balance for improved visibility.
