@@ -7,17 +7,17 @@ As part of the [ROB530 - Mobile Robotics](https://github.com/UMich-CURLY-teachin
 **Team:** Muhammad Bahru Sholahuddin, Mohammed Buhlaigah, Zih-En Tseng, Usman Shahzad.
 
 ### My Responsibility:
-I developed an Android application to perform 3D linear and angular pose estimations (surge, sway, heave, roll, pitch, yaw) using a single-vision camera relative to the object's frame of reference. I also refined the estimations using the Android accelerometer and gyroscope sensors, applying a Kalman filter and integrating the team's filtering and control algorithms into the application.
+Developed an Android application to perform 3D linear and angular pose estimations (surge, sway, heave, roll, pitch, yaw) using a single-vision camera relative to the object's frame of reference. The estimations were refined using the Android accelerometer and gyroscope sensors, applying a Kalman filter and integrating the team's filtering and control algorithms into the application.
 
 ### Strategies:
-- Implemented HSV object segmentation, noise reduction (smoothing and morphological operations), and contour refinement (Convex Hull).
-- Extracted object features (centroid, edges, vertices) and displayed their positions within the camera's 2D frame.
-- Performed camera calibration to obtain intrinsic parameters such as the optical center, focal length, skew coefficient, and distortion coefficients of the Android camera.
-- Applied the Perspective-n-Point (PnP) algorithm to compute the object’s translation vector and rotation matrix relative to the camera frame.
-- Performed inverse frame transformation to use the object as the reference frame, obtaining the camera’s linear ($$x$$, $$y$$, $$z$$) and Euler angular positions ($$\phi$$, $$\theta$$, $$\psi$$).
-- Processed Android accelerometer and gyroscope data for Kalman filtering.
-- Integrated frequency-based filtering and bang-bang control algorithms into the Android project.
-- Developed a feature to save and reset the desired 6 DoF position and orientation, along with motion guidance based on in-frame positions.
+- **Object Segmentation:** Implemented HSV object segmentation along with noise reduction techniques such as smoothing and morphological operations. Contour refinement was achieved using Convex Hull.
+- **Feature Extraction:** Extracted object features, including centroid, edges, and vertices, displaying their positions within the camera's 2D frame.
+- **Camera Calibration:** Calibrated the camera to determine intrinsic parameters like the optical center, focal length, skew coefficient, and distortion coefficients.
+- **Pose Estimation:** Applied the Perspective-n-Point (PnP) algorithm to calculate the object’s translation vector and rotation matrix relative to the camera frame.
+- **Frame Transformation:** Performed inverse frame transformation to use the object as the reference, obtaining the camera’s linear ($$x$$, $$y$$, $$z$$) and Euler angular positions ($$\phi$$, $$\theta$$, $$\psi$$).
+- **Sensor Data Processing:** Processed accelerometer and gyroscope data from the Android device for Kalman filtering.
+- **Control Algorithms:** Integrated frequency-based filtering and bang-bang control algorithms into the Android project.
+- **Motion Guidance:** Developed a feature to save and reset the desired 6 DoF position and orientation, along with providing motion guidance based on in-frame positions.
 
 ### Links:
 - [GitHub (Pose Perfect Project)](https://github.com/mbsbahru/Pose_Perfect)
