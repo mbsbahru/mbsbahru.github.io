@@ -4,12 +4,10 @@ title: RoboNation's 27th International RoboSub Competition (2024)
 
 As a software developer for the [Michigan Robotic Submarine](https://www.michiganrobosub.com/) team.
 
-*Team*: Nolan Kuza, Muhammad Bahru Sholahuddin, Diego Montemayor, Kathryn Wakevainen
-Kobi Wettstein, Adarsh Ponaka, Elaina Mann, Melissa Peters, Arnav Mummineni, Jennifer Chin,
-Alexander Bowler, Tong Sing Wu, Shrey Sahgal, Emi Yuki, Shubh Agrawal, Andrew Huston.
+*Team*: Nolan Kuza, Muhammad Bahru Sholahuddin, Diego Montemayor, Kathryn Wakevainen, Kobi Wettstein, Adarsh Ponaka, Elaina Mann, Melissa Peters, Arnav Mummineni, Jennifer Chin, Alexander Bowler, Tong Sing Wu, Shrey Sahgal, Emi Yuki, Shubh Agrawal, Andrew Huston.
 
 ### My Responsibility:
-Detecting and localizing underwater objects efficiently for autonomous navigation.
+Detected and localized underwater objects efficiently for autonomous navigation.
 
 ### Strategies:
 - **Image Enhancement:** Applied histogram equalization and white balance for improved visibility.
