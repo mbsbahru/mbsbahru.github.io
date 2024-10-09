@@ -12,6 +12,7 @@ lang:                  en
 
 remote_theme: hydecorp/hydejack@v9
 logo: /assets/img/header_photo.png
+favicon: /assets/icons/favico.ico
 
 permalink:             /:categories/:year-:month-:day-:title/
 
