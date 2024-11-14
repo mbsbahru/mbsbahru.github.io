@@ -2,7 +2,7 @@
 title: Control Co-Design of VIVACE Renewable Energy Converter (2023-2024)
 ---
 
-Master's research project at the Marine Renewable Energy Lab (MRELab).
+In progress research project at the Marine Renewable Energy Lab (MRELab) as part of Master's Thesis.
 
 **Team:** Muhammad Bahru Sholahuddin, Nipit Congpuong (PhD Candidate), Salman Sadiq, Ph.D. (Postdoctoral Fellow), Prof. Michael M. Bernitsas (Advisor).
 
