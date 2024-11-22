@@ -19,7 +19,7 @@ Developed an Android-based object detection system using OpenCV, integrated with
 - **Microcontroller Communication:** Established communication with an STM32F4 microcontroller via UART over Bluetooth. Designed a custom parsing system to transmit real-time 2D object position data and sensor data (GPS, light, orientation) to the microcontroller for decision-making. Retrieved command data from the microcontroller to update the Android system with mission states.
 
 ### Links:
-- [GitHub](https://github.com/MRoboSub/mrobosub/blob/devel/mrobosub_perception/src/hsv_pipeline.py)
+- [GitHub](https://github.com/mbsbahru/mbsbahru.github.io/blob/main/projects/barunastra_roboboat.md?plain=1)
 - [Paper](https://robonation.org/app/uploads/sites/3/2019/10/ITSN_RB16_Paper.pdf)
 - [Competition Rules and Tasks](https://drive.google.com/file/d/0BzV2g6noYWvrcllVVjJzWDJMbU0/view?usp=sharing&resourcekey=0-r_J7uLPxqzsBOr-YExZiJg)
 - [Application](https://drive.google.com/file/d/19wvUKwV2xPmhx0Rs0UimR88snFOb-KrW/view?usp=sharing)
